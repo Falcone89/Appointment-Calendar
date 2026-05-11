@@ -1,5 +1,7 @@
 # Appointment Calendar
 
+**Live demo:** https://falcone89.github.io/Appointment-Calendar/
+
 React + Vite Calendar App | Appointment management with Mock API integration.
 
 ## Running the project
