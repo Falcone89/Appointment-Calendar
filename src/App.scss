@@ -1,0 +1,22 @@
+@use "./styles/variables" as *;
+
+.app {
+  width: 100%;
+  max-width: 1200px;
+  padding: 24px;
+  margin: 0 auto;
+}
+ 
+.app-header {
+  margin-bottom: 25px;
+ 
+  &__title {
+    font-size: 22px;
+    margin-bottom: 8px;
+    color: $c-gray-3;
+  }
+ 
+  &__description {
+    margin-bottom: 8px;
+  }
+}
